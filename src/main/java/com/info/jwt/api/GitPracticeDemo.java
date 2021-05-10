@@ -13,10 +13,16 @@ public class GitPracticeDemo {
 	private Integer stateid;
 	private Double salary;
 
-	public static String myHome(String homeName) {
-		
+	public static String myHome2(String homeName) {
+
 		return homeName;
 	}
+
+	public static String myHome(String homeName) {
+
+		return homeName;
+	}
+
 	public String gitName(String name) {
 
 		return name;
