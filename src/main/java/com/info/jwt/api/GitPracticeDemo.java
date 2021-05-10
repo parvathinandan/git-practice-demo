@@ -13,6 +13,9 @@ public class GitPracticeDemo {
 	private Integer stateid;
 	private Double salary;
 
+	public void hi() {
+		System.out.println("i am in....");
+	}
 	public static String myHome34(String homeName) {
 
 		return homeName;
